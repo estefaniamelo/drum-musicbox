@@ -3,12 +3,12 @@ window.addEventListener('load', () => {
     const pads = document.querySelectorAll(".pads div");
     const visual = document.querySelector('.visual');
     const colors = [
-        "#60D394",
-        "#D36060",
-        "#C060D3",
-        "#D3D160",
-        "#606BD3",
-        "#60C2D3"
+        "#091353",
+        "#FA9579",
+        "#C2FFFF",
+        "#FF00E4",
+        "#79D70F",
+        "#FC4F4F"
     ];
 
     // lets get going with the sound here 

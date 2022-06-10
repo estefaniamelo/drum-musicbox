@@ -39,27 +39,27 @@ header p{
 }
 
 .pad1{
-    background: #60D394;
+    background: #091353;
 }
 
 .pad2{
-    background: #D36060;
+    background: #FA9579;
 }
 
 .pad3{
-    background: #C060D3;
+    background: #C2FFFF;
 }
 
 .pad4{
-    background: #D3D160;
+    background: #FF00E4;
 }
 
 .pad5{
-    background: #606BD3;
+    background: #79D70F;
 }
 
 .pad6{
-    background: #60C2D3;
+    background: #FC4F4F;
 }
 
 @keyframes jump {
@@ -85,4 +85,8 @@ header p{
     bottom: 0%;
     left: 20%;
     z-index: -1;
+}
+
+.footer-text{
+    font-size: .5rem;
 }
